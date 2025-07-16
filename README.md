@@ -21,10 +21,10 @@ The organization for the project files is the following one:
 -  cd src
 -  ls
   
-  ee_pose.csv               ideal.csv                     trajectory.csv
-  extract_tf_trajectory.py  lissajous_data.bag            trayectoria_ideal.csv
-  frames.gv                 lissajous_node.cpp
-  frames.pdf                plot_lissajous_comparison.py
+  ee_pose.csv;               ideal.csv;                     trajectory.csv;
+  extract_tf_trajectory.py;  lissajous_data.bag;            trayectoria_ideal.csv;
+  frames.gv;                 lissajous_node.cpp;
+  frames.pdf;                plot_lissajous_comparison.py;
 
 
 
